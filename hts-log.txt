@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Feb 2024 20:09:30 at https://web.archive.org/web/20150702103123/http://www.incredibox.com/v1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20150702103123/http://www.incredibox.com/v1 -O1 "C:\My Web Sites\https___web.archive.org_web_20150702103123_http___www.incredibox.com_v1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:13:41	Warning: 	FOUND for https://web.archive.org/web/20150702103123/http://www.incredibox.com/
+20:13:41	Warning: 	File has moved from https://web.archive.org/web/20150702103123/http://www.incredibox.com/ to https://web.archive.org/web/20150702102937/http://www.incredibox.com/
+20:13:43	Error: 	"Not Found" (404) at link https://web.archive.org/web/20150705023548im_/http://www.incredibox.com/img/bt-next.png (from https://web.archive.org/web/20150705011919cs_/http://www.incredibox.com/css/site.css)
+20:13:43	Error: 	"Not Found" (404) at link https://web.archive.org/web/20150705023558im_/http://www.incredibox.com/img/bt-prev.png (from https://web.archive.org/web/20150705011919cs_/http://www.incredibox.com/css/site.css)
+20:13:53	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20150702103123/http://www.incredibox.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from web.archive.org/web/20150702100817/https://connect.facebook.net/fr_FR/sdk.js)
+20:13:53	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20150702103123/http://www.incredibox.com/dialog/ (from web.archive.org/web/20150702100817/https://connect.facebook.net/fr_FR/sdk.js)
+20:13:53	Error: 	"Bad Request" (400) at link https://web.archive.org/web/20150702103123/http://www.incredibox.com/%s/profile.php?id=%s (from web.archive.org/web/20150702100817/https://connect.facebook.net/fr_FR/sdk.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 23 seconds : 79 links scanned, 72 files written (2471964 bytes overall) [2554338 bytes received at 9712 bytes/sec], 607158 bytes transferred using HTTP compression in 12 files, ratio 30%, 8.4 requests per connection
+(5 errors, 2 warnings, 0 messages)
